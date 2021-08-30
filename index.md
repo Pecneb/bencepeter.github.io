@@ -1,2 +1,3 @@
-<h1>Whalecum to my world</h1>
-Here we do only CRACKCOCAINE!
+<h1>Bence Peter's webpage</h1>
+<p>Good day to you kind visitor!</p>
+<p>The site is currently under construction.</p>
