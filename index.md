@@ -1,4 +1,5 @@
 <h1>Bence Peter's webpage</h1>
-<p>Good day to you kind visitor!</p>
-<p>The site is currently under construction.</p>
 <script src="https://tryhackme.com/badge/350772"></script>
+Computer Scinence student.
+C/C++, C#, Python
+Intrested in Cybersecurity.
