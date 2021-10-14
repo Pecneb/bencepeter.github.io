@@ -3,3 +3,5 @@
 <p>Computer Scinence student.</p>
 <p>C/C++, C#, Python</p>
 <p>Intrested in Cybersecurity.</p>
+<img src="THM-3KQRFNNHKJ.png" alt="THM-Cert"/>
+<img src="THM-G1R4QGEEMK.png" alt="THM-Cert"/>
