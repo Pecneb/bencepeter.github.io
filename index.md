@@ -20,5 +20,5 @@
 
 <h2>Projects<h1>
 <h3>
-  <a href="https://pecneb.github.io/Biztonsagi-Kamera-Projekt/">Security Camera with motion detection and tracking</a>
+  <a href="https://github.com/Pecneb/Biztonsagi-Kamera-Projekt/">Security Camera with motion detection and tracking</a>
 </h3>
