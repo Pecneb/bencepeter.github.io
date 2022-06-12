@@ -11,8 +11,11 @@
 <hr />
 
 <h2>Knowledge and Experience in cybersecurity</h2>
+
 <h3>My account and certificates on <a href="https://tryhackme.com">Tryhackme</a></h3>
+
 <script src="https://tryhackme.com/badge/350772"></script>
+
 <img src="THM-3KQRFNNHKJ.png" alt="THM-CompleteBeginner"/>
 <img src="THM-G1R4QGEEMK.png" alt="THM-PreSecurity"/>
 <img src="THM-I1QYOVG571.png" alt="THM-JrPentester"/>
@@ -21,9 +24,11 @@
 <hr />
 
 <h2>Projects<h1>
+
 <h3>
   <a href="https://github.com/Pecneb/security_cam_v1">Security Camera with motion detection and tracking</a>
 </h3>
+
 <h3>
   <a href="https://github.com/Pecneb/RaspberryPi_MotionDetection">RaspberryPi security system project</a>
 </h3>
