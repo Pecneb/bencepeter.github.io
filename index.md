@@ -5,12 +5,12 @@
 
 <hr />
 
-<h2>Programmming knowledge</h2>
-<p>C/C++, C#, Python</p>
+<h2>Programmming skills</h2>
+<p>C/C++, C#, Python, SQL, HTML</p>
 
 <hr />
 
-<h2>Knowledge and Experience in cybersecurity</h2>
+<h2>Other Skills</h2>
 
 <h3>My account and certificates on <a href="https://tryhackme.com">Tryhackme</a></h3>
 
@@ -32,3 +32,12 @@
 <h3>
   <a href="https://github.com/Pecneb/RaspberryPi_MotionDetection">RaspberryPi security system project</a>
 </h3>
+
+<h3>
+  <a href="https://github.com/Pecneb/computer_vision_research">Computer vision research</a>
+</h3>
+  
+<hr />
+  
+<h2>Hobbys</h2>
+Astrophotography -> My astrobin page: https://www.astrobin.com/users/pecneb/
