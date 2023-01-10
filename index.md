@@ -38,8 +38,13 @@
 </h3>
   
 <h3>
-  <a href="https://github.com/SZE-IT-MOSZE/mosze-semester-project-foobar_reloaded">Computer vision research</a>
+  <a href="https://github.com/SZE-IT-MOSZE/mosze-semester-project-foobar_reloaded">Spacewalk The Game</a>
 </h3>
+  
+<h3>
+  <a href="https://github.com/Pecneb/studdy-buddy">Studdy-Buddy: Social media platform for students</a>
+</h3>
+  
 <hr />
   
 <h2>Hobbys</h2>
